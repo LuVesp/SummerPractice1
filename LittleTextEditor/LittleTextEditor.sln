@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LittleTextEditor", "LittleTextEditor.vcxproj", "{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Debug|x64.ActiveCfg = Debug|x64
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Debug|x64.Build.0 = Debug|x64
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Debug|x86.Build.0 = Debug|Win32
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Release|x64.ActiveCfg = Release|x64
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Release|x64.Build.0 = Release|x64
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Release|x86.ActiveCfg = Release|Win32
+		{5CDDDAC8-27E5-4AE9-ABE7-E516DB1FEF45}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91FAB348-88F1-4DF5-93A2-B71974578DB5}
+	EndGlobalSection
+EndGlobal
